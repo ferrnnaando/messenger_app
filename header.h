@@ -1,0 +1,16 @@
+#pragma once
+#include <iostream>
+#include <Windows.h>
+#include <cstdlib>
+#include <cstdio>
+#include <conio.h>
+#include <cassert>
+#include <string>
+#include <thread>
+#include <mutex>
+#include <shared_mutex>
+#include <wininet.h>
+#include <fstream>
+#include <stdio.h>
+#include <stdlib.h>
+#include "variables.h"
