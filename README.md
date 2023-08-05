@@ -1,5 +1,5 @@
 # messenger_app
-* | A simple C++ messenger app using MySQL Workbench and native C++.
+* | An advanced and long-coded C++ messenger app using MySQL Workbench and native C++.
 
 * | Remember to have linked all MySQL dependencies (c++ connector, community server with folders lib & include and .libs)
 
