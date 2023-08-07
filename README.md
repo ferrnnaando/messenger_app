@@ -1,7 +1,5 @@
 # Messenger App - Chat Forum
 
-![Messenger App Logo](/path/to/logo.png)
-
 ## Overview
 
 Messenger App is a chat forum application developed in C++ that allows users to communicate with each other in real-time. It utilizes MySQL Workbench as the backend database to store user information and chat messages.
